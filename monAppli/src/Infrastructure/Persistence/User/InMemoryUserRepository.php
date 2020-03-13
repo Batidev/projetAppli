@@ -30,6 +30,7 @@ class InMemoryUserRepository implements UserRepository
         ];
     }
 
+
     /**
      * {@inheritdoc}
      */
